@@ -1,0 +1,15 @@
+C:\Users\Rosya\Desktop\учеба\С#\лекции\лекция 1\example005_LoveUser\obj\Debug\net6.0\example005_LoveUser.csproj.AssemblyReference.cache
+C:\Users\Rosya\Desktop\учеба\С#\лекции\лекция 1\example005_LoveUser\obj\Debug\net6.0\example005_LoveUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosya\Desktop\учеба\С#\лекции\лекция 1\example005_LoveUser\obj\Debug\net6.0\example005_LoveUser.AssemblyInfoInputs.cache
+C:\Users\Rosya\Desktop\учеба\С#\лекции\лекция 1\example005_LoveUser\obj\Debug\net6.0\example005_LoveUser.AssemblyInfo.cs
+C:\Users\Rosya\Desktop\учеба\С#\лекции\лекция 1\example005_LoveUser\obj\Debug\net6.0\example005_LoveUser.csproj.CoreCompileInputs.cache
+C:\Users\Rosya\Desktop\учеба\С#\лекции\лекция 1\example005_LoveUser\bin\Debug\net6.0\example005_LoveUser.exe
+C:\Users\Rosya\Desktop\учеба\С#\лекции\лекция 1\example005_LoveUser\bin\Debug\net6.0\example005_LoveUser.deps.json
+C:\Users\Rosya\Desktop\учеба\С#\лекции\лекция 1\example005_LoveUser\bin\Debug\net6.0\example005_LoveUser.runtimeconfig.json
+C:\Users\Rosya\Desktop\учеба\С#\лекции\лекция 1\example005_LoveUser\bin\Debug\net6.0\example005_LoveUser.dll
+C:\Users\Rosya\Desktop\учеба\С#\лекции\лекция 1\example005_LoveUser\bin\Debug\net6.0\example005_LoveUser.pdb
+C:\Users\Rosya\Desktop\учеба\С#\лекции\лекция 1\example005_LoveUser\obj\Debug\net6.0\example005_LoveUser.dll
+C:\Users\Rosya\Desktop\учеба\С#\лекции\лекция 1\example005_LoveUser\obj\Debug\net6.0\refint\example005_LoveUser.dll
+C:\Users\Rosya\Desktop\учеба\С#\лекции\лекция 1\example005_LoveUser\obj\Debug\net6.0\example005_LoveUser.pdb
+C:\Users\Rosya\Desktop\учеба\С#\лекции\лекция 1\example005_LoveUser\obj\Debug\net6.0\example005_LoveUser.genruntimeconfig.cache
+C:\Users\Rosya\Desktop\учеба\С#\лекции\лекция 1\example005_LoveUser\obj\Debug\net6.0\ref\example005_LoveUser.dll
